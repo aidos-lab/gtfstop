@@ -1,7 +1,5 @@
 # `gtfstop` : Topological Analysis of GTFS data
 
-(Cool logo to be added)
-
 ## What is GTFS Data?
 General Transit Feed Specification or 'GTFS' for short, is a common data format for public transportation schedules and associated geographic information. It was developed by Google in partnership with Portland TriMet and is used by transit agencies to share their schedule and route data with software developers, who can then incorporate this data into transit apps, trip planners, and other tools for the public.
 
